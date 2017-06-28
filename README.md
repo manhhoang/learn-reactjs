@@ -1,21 +1,10 @@
-# react
+# React
 
-React example app that demonstrates using [React] with [webpack], and [babeljs], as well as project structure.
+## Running
+To run, simply use npm,
 
-Requirements:
-- git
-- Node v6
-- npm v3
+1. Run `npm install` to install all dependencies
+2. Run `npm run build` to create a deploy
+3. Run `npm run start` to serve the app on port `3000`  
 
-To run the app locally:
 
-```bash
-cd react
-npm run setup
-npm run dev
-open http://localhost:8080
-```
-
-[React]: http://facebook.github.io/react/
-[webpack]: http://webpack.github.io/
-[babeljs]: https://babeljs.io/
